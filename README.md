@@ -1,4 +1,8 @@
-### Hi there 👋
+# 👋 Hello Everyone! I am Frasat Ali, a Front-End Developer!
+
+## ✌ Things that will help you know me better:
+  
+  - 💡 I am very passionate and open towards learning and discussing new technologies and frameworks!
 
 <!--
 **faraasat/faraasat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

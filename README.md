@@ -1,6 +1,6 @@
-# 👋 Hello Everyone! I am Frasat Ali, a Front-End Developer!
+## 👋 Hello Everyone! I am Frasat Ali, a Front-End Developer!
 
-## ✌ Things that will help you know me better:
+### ✌ Things that will help you know me better:
   
   - 💡 I am very passionate and open towards learning and discussing new technologies and frameworks!
 

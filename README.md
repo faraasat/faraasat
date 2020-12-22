@@ -48,8 +48,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/faraasat">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faraasat&count_private=true&show_icons=true&theme=jolly"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faraasat&theme=jolly"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faraasat&count_private=true&show_icons=true&theme=jolly"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faraasat&theme=jolly"/>
   </a>
 </p>
 <p align="center">

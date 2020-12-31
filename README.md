@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git)&nbsp;
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=plastic&logo=.NET)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=plastic&logo=C)
-![C++](https://img.shields.io/badge/-C++-333333?style=plastic&logo=c++)&nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=plastic&logo=C%2B%2B)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-333333?style=plastic&logo=c-sharp)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python)&nbsp;

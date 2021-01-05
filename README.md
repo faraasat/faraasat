@@ -4,21 +4,14 @@
 ![Profile views](https://gpvc.arturio.dev/faraasat)  
 
 
-<!--
 ### ✌ Things that will help you know me better:
   
-  - 💡 I am very passionate and open towards learning and discussing new technologies and frameworks!
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🚀 I am very passionate and open towards learning and discussing about new technologies and frameworks!
+  - 🔭 I am currently working on a React Bootcamp and building my portfolio.
+  - 👨‍🎓 I am a student and persuing my Computer Science degree at Bahria University Karachi Campus.
+  - 🔥 In my free time, I love to read manga, watch animes and play games.
+  - 📧 You can contact me at any time at <a href="mailto:farasataliazeemi1@gmail.com">farasataliazeemi1@gmail.com</a>. I'll try to respond ASAP!!
+  - ⚡ Fun fact: I want to travel to and visit every country on this planet.
 
 ### 📡 Tech Stack:
 
@@ -46,9 +39,10 @@ Here are some ideas to get you started:
 
 ### ⚡ Some Analysis:
 
+<!-- jolly -->
 <p align="center">
   <a href="https://github.com/faraasat">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faraasat&count_private=true&show_icons=true&theme=jolly"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faraasat&theme=jolly"/>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=faraasat&count_private=true&show_icons=true&theme=react"/><img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faraasat&theme=react"/>
   </a>
 </p>
 <p align="center">
@@ -59,3 +53,12 @@ Here are some ideas to get you started:
 <!--![GitHub metrics](https://metrics.lecoq.io/faraasat)-->  
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=faraasat)](https://github.com/ryo-ma/github-profile-trophy)-->
 <!--<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>-->
+
+### 🤙 Connect with Me:
+
+<p align="center">
+<a href="https://www.linkedin.com/in/faraasat/"><img src="https://img.shields.io/badge/-Farasat%20Ali-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:farasataliazeemi1@gmail.com"><img src="https://img.shields.io/badge/-farasataliazeemi1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/farasat_ali_azeemi/"><img src="https://img.shields.io/badge/-@farasat_ali_azeemi-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/FarasatAliAzeemi"><img src="https://img.shields.io/badge/-Farasat%20Ali-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+</p>

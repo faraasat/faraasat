@@ -7,8 +7,8 @@
 ### ✌ Things that will help you know me better:
   
   - 🚀 I am very passionate and open towards learning and discussing about new technologies and frameworks!
-  - 🔭 I am currently working on a React Bootcamp and building my portfolio.
   - 👨‍🎓 I am student of Computer Science and persuing my Bachelors degree at Bahria University Karachi Campus.
+  - 🔭 I am currently working on a React Bootcamp, Learning Soldity and building my Portfolio.
   - 🔥 In my free time, I love to read manga, watch animes and play games.
   - 📧 You can contact me at any time at <a href="mailto:farasataliazeemi1@gmail.com">farasataliazeemi1@gmail.com</a>. I'll try to respond ASAP!!
   - ⚡ Fun fact: I want to travel to and visit every country on this planet.
@@ -36,6 +36,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=plastic&logo=rust)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=plastic&logo=microsoft-sql-server)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=plastic&logo=Solidity)&nbsp;
 
 ### ⚡ Some Analysis:
 
@@ -61,4 +62,5 @@
 <a href="mailto:farasataliazeemi1@gmail.com"><img src="https://img.shields.io/badge/-farasataliazeemi1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/farasat_ali_azeemi/"><img src="https://img.shields.io/badge/-@farasat_ali_azeemi-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/FarasatAliAzeemi"><img src="https://img.shields.io/badge/-Farasat%20Ali-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://faraasat.github.io/curriculum_vitae/"><img src="https://img.shields.io/badge/-My%20Portfolio-FCA902?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>

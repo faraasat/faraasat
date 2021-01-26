@@ -48,7 +48,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/faraasat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraasat&layout=compact&langs_count=8&theme=jolly"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraasat&layout=compact&langs_count=8&theme=jolly"/><img src="https://activity-graph.herokuapp.com/graph?username=faraasat"/>
   </a>
 </p>
 <!--![GitHub metrics](https://metrics.lecoq.io/faraasat)-->  

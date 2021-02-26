@@ -40,7 +40,6 @@
 
 ### ⚡ Some Analysis:
 
-<!-- jolly -->
 <p align="center">
   <a href="https://github.com/faraasat">
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=faraasat&count_private=true&show_icons=true&theme=react"/><img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faraasat&theme=react"/>

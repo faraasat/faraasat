@@ -23,6 +23,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=plastic&logo=typeScript&logoColor=007acc)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=plastic&logo=redux&logoColor=7248b6)&nbsp;
+![Gatsby](https://img.shields.io/badge/-GatsbyJS-333333?style=plastic&logo=gatsby)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=plastic&logo=netlify)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-333333?style=plastic&logo=dart)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=plastic&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=plastic&logo=kubernetes)&nbsp;

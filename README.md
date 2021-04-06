@@ -8,7 +8,7 @@
   
   - 🚀 I am very passionate and open towards learning and discussing about new technologies and frameworks!
   - 👨‍🎓 I am student of Computer Science and persuing my Bachelors degree at Bahria University Karachi Campus.
-  - 🔭 I am currently working on a React Bootcamp and building my Portfolio.
+  - 🔭 I am currently working on a React and AWS Bootcamp and building my Portfolio.
   - 🔥 In my free time, I love to read manga, watch animes and play games.
   - 📧 You can contact me at any time at <a href="mailto:farasataliazeemi1@gmail.com">farasataliazeemi1@gmail.com</a>. I'll try to respond ASAP!!
   - ⚡ Fun fact: I want to travel to and visit every country on this planet.

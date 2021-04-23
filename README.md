@@ -40,6 +40,7 @@
 ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=plastic&logo=microsoft-sql-server)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=plastic&logo=PostgreSQL)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=plastic&logo=Solidity)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=plastic&logo=react&logoColor=teal)&nbsp;
 
 ### ⚡ Some Analysis:
 

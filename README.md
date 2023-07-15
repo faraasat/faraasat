@@ -53,7 +53,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-21212b?logo=amazon-aws)&nbsp;
 ![GCP](https://img.shields.io/badge/-GCP-21212b?logo=google-cloud)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-21212b?logo=microsoft-azure)&nbsp;
-![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-21212b?logo=oralce)&nbsp;
+![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-21212b?logo=oracle)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-21212b?logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-21212b?logo=github)&nbsp;

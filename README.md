@@ -22,51 +22,47 @@
 
 ### 📡 Tech Stack:
 
-![HTML](https://img.shields.io/badge/-HTML-00032f?&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-00032f?logo=CSS3)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-00032f?logo=Sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-00032f?logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-00032f?logo=tailwindcss)
+![HTML](https://img.shields.io/badge/-HTML-21212b?&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-21212b?logo=CSS3)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-21212b?logo=Sass)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-21212b?logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-21212b?logo=tailwindcss)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-00032f?logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-00032f?logo=typeScript)&nbsp;
-![C](https://img.shields.io/badge/-C-00032f?logo=C)
-![C++](https://img.shields.io/badge/-C++-00032f?logo=C%2B%2B)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-00032f?style=logo=c-sharp)&nbsp;
-![Java](https://img.shields.io/badge/-Java-00032f?style=logo=java)&nbsp;
-![Python](https://img.shields.io/badge/-Python-00032f?logo=python)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-00032f?logo=rust)&nbsp;
-![Go](https://img.shields.io/badge/-Go-00032f?logo=go)&nbsp;
-![Solidity](https://img.shields.io/badge/-Solidity-00032f?logo=Solidity)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-21212b?logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-21212b?logo=python)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-21212b?logo=rust)&nbsp;
+![Go](https://img.shields.io/badge/-Go-21212b?logo=go)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-21212b?logo=Solidity)&nbsp;
 
-![React](https://img.shields.io/badge/-React-00032f?logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-00032f?logo=redux)&nbsp;
-![Gatsby](https://img.shields.io/badge/-GatsbyJS-00032f?logo=gatsby)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-00032f?logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-00032f?logo=express)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-00032f?logo=mongodb)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-00032f?logo=next.js)&nbsp;
-![NestJs](https://img.shields.io/badge/-NestJs-00032f?logo=nestjs)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-00032f?logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React-21212b?logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-21212b?logo=redux)&nbsp;
+![Gatsby](https://img.shields.io/badge/-GatsbyJS-21212b?logo=gatsby)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-21212b?logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-21212b?logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-21212b?logo=next.js)&nbsp;
+![NestJs](https://img.shields.io/badge/-NestJs-21212b?logo=nestjs)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-21212b?logo=react)&nbsp;
 
-![Netlify](https://img.shields.io/badge/-Netlify-00032f?logo=netlify)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-00032f?logo=vercel)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-21212b?logo=netlify)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-21212b?logo=vercel)&nbsp;
 
-![Docker](https://img.shields.io/badge/-Docker-00032f?logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-00032f?logo=kubernetes)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-00032f?logo=amazon-aws)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-00032f?logo=google-cloud)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-00032f?logo=microsoft-azure)&nbsp;
-![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-00032f?logo=oralce)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-21212b?logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-21212b?logo=kubernetes)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-21212b?logo=amazon-aws)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-21212b?logo=google-cloud)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-21212b?logo=microsoft-azure)&nbsp;
+![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-21212b?logo=oralce)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-00032f?logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-00032f?logo=github)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-00032f?logo=github-actions)&nbsp;
+![Git](https://img.shields.io/badge/-Git-21212b?logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-21212b?logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-21212b?logo=github-actions)&nbsp;
 
-![SQL Server](https://img.shields.io/badge/-SQLServer-00032f?logo=microsoft-sql-server)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00032f?logo=PostgreSQL)&nbsp;
-![Neo4j](https://img.shields.io/badge/-Neo4j-00032f?logo=neo4j)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-00032f?logo=redis)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-21212b?logo=PostgreSQL)&nbsp;
+![Neo4j](https://img.shields.io/badge/-Neo4j-21212b?logo=neo4j)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-21212b?logo=redis)&nbsp;
 
 ### ⚡ Some Analysis:
 

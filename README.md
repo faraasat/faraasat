@@ -34,13 +34,13 @@
 ![Rust](https://img.shields.io/badge/-Rust-21212b?logo=rust)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-21212b?logo=go)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-21212b?logo=Solidity)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-21212b?logo=ethereum)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-21212b?logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-21212b?logo=redux)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-GatsbyJS-21212b?logo=gatsby)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-21212b?logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-21212b?logo=express)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-21212b?logo=next.js)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NestJs-21212b?logo=nestjs)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-21212b?logo=react)&nbsp;
@@ -60,9 +60,11 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-21212b?logo=github-actions)&nbsp;
 
 ![SQL Server](https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-21212b?logo=PostgreSQL)&nbsp;
 ![Neo4j](https://img.shields.io/badge/-Neo4j-21212b?logo=neo4j)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-21212b?logo=redis)&nbsp;
+
 
 ### ⚡ Some Analysis:
 

@@ -1,7 +1,8 @@
-<meta name="google-site-verification" content="RuehPDgWxUywK5WbijI2VThAJV4y-VxfVJfRN7aLuoA" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5500&pause=1000&color=F7942B&center=true&width=435&lines=%F0%9F%91%8B+Hey+There!+I+am+Farasat+Ali;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Web3+Developer;%E2%9A%9B%EF%B8%8F+React+Native+Developer;%E2%98%81%EF%B8%8F+Knowledgeable+in+AWS+%26+Azure;%F0%9F%A4%96+AI+and+Deep+Learning;%E2%9A%A1+Studying+Quantum+Computing" />
+<p/>
 
-# Hi there 👋, I am Farasat Ali
-####  I am a Developer and a Tech Enthusiast!
+<br />
 
 <!-- ![Profile Views](https://gpvc.arturio.dev/faraasat) -->  
 

@@ -29,6 +29,8 @@
   - 📧 You can contact me at any time at <a href="mailto:farasataliazeemi1@gmail.com">farasataliazeemi1@gmail.com</a>. I'll try to respond ASAP!!
   - ⚡ Fun fact: I want to visit every country on this planet.
 
+<hr />
+
 ### 📡 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-21212b?&logo=HTML5)&nbsp;
@@ -74,6 +76,7 @@
 ![Neo4j](https://img.shields.io/badge/-Neo4j-21212b?logo=neo4j)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-21212b?logo=redis)&nbsp;
 
+<hr />
 
 ### ⚡ Some Analysis:
 
@@ -94,6 +97,8 @@
     <img width="80%" src="https://metrics.lecoq.io/faraasat?template=classic&base.indepth=true&isocalendar=1&languages=1&lines=1&habits=1&introduction=1&stackoverflow=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=30&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&stackoverflow=false&stackoverflow.user=14837876&stackoverflow.limit=0&stackoverflow.lines=0&stackoverflow.lines.snippet=0&config.timezone=Asia%2FKarachi" alt="Metrics" />
   </a>
 </p> -->
+
+<hr />
 
 ### 🤙 Connect with Me:
 

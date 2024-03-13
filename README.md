@@ -106,7 +106,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faraasat/"><img src="https://img.shields.io/badge/-Farasat%20Ali-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://farasat.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-FCA502?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://www.farasat.me/"><img src="https://img.shields.io/badge/-My%20Portfolio-FCA502?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://faraasat.medium.com/"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="mailto:farasataliazeemi1@gmail.com"><img src="https://img.shields.io/badge/-farasataliazeemi1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/farasat_ali_azeemi/"><img src="https://img.shields.io/badge/-@farasat_ali_azeemi-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;

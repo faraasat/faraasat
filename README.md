@@ -14,73 +14,34 @@
 
 <hr />
 
-### ✌ Things that will help you know me better:
+## ✌ Things that will help you know me better:
   
-  - 🚀 I am very passionate and open to learning and discussing new technologies and frameworks!
-  - 👨‍🎓 I am a graduate and pursuing my goals and dreams.
-  - ⚙ I am interested in topics related to:
-    - Full Stack Web Development
-    - Web3 and Blockchain
-    - Multicloud
-    - AI and Deep Learning
-    - Quantum Computing
-  - 🔭 I am currently working on multiple technologies like MERN Stack, NextJs, NestJs, Web3, and MultiCloud.
-  - 🔥 In my free time, I love to:
-    - Learn about forex and do analysis.
-    - Watch anime and travel vlogs.
-  - 📧 You can contact me at any time at <a href="mailto:farasataliazeemi1@gmail.com">farasataliazeemi1@gmail.com</a>. I'll try to respond ASAP!!
-  - ⚡ Fun fact: I want to visit every country on this planet.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 I am passionate and open to learning and discussing new technologies and frameworks!
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😎 I am a graduate and pursuing my goals and dreams.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙ I am interested in topics related to:
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Full Stack Web Development (MERN, Next.js & AWS)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Artificial Intelligence, Deep Learning & LLMs
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Blockchain & Quantum Computing Enthusiast
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I am currently working on multiple technologies like MERN Stack, NextJs, NestJs, Web3, and MultiCloud.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥 In my free time, I love to:
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Learn about forex and do analysis.
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Watch anime and travel vlogs.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 You can contact me at any time at <a href="mailto:farasataliazeemi1@gmail.com">farasataliazeemi1@gmail.com</a>. I'll try to respond ASAP!!
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact: I want to visit every country on this planet.
 
 <hr />
 
-### 📡 Tech Stack:
+## 📡 Tech Stack:
 
-![HTML](https://img.shields.io/badge/-HTML-21212b?&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-21212b?logo=CSS3)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-21212b?logo=Sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-21212b?logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-21212b?logo=tailwindcss)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-21212b?logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-21212b?logo=typeScript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-21212b?logo=python)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-21212b?logo=rust)&nbsp;
-![Go](https://img.shields.io/badge/-Go-21212b?logo=go)&nbsp;
-![Solidity](https://img.shields.io/badge/-Solidity-21212b?logo=Solidity)&nbsp;
-![Ethereum](https://img.shields.io/badge/-Ethereum-21212b?logo=ethereum)&nbsp;
-
-![React](https://img.shields.io/badge/-React-21212b?logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-21212b?logo=redux)&nbsp;
-![Gatsby](https://img.shields.io/badge/-GatsbyJS-21212b?logo=gatsby)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-21212b?logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-21212b?logo=express)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-21212b?logo=next.js)&nbsp;
-![NestJs](https://img.shields.io/badge/-NestJs-21212b?logo=nestjs)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-21212b?logo=react)&nbsp;
-
-![Netlify](https://img.shields.io/badge/-Netlify-21212b?logo=netlify)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-21212b?logo=vercel)&nbsp;
-
-![Docker](https://img.shields.io/badge/-Docker-21212b?logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-21212b?logo=kubernetes)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-21212b?logo=amazon-aws)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-21212b?logo=google-cloud)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-21212b?logo=microsoft-azure)&nbsp;
-![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-21212b?logo=oracle)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-21212b?logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-21212b?logo=github)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-21212b?logo=github-actions)&nbsp;
-
-![SQL Server](https://img.shields.io/badge/-SQLServer-21212b?logo=microsoft-sql-server)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-21212b?logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-21212b?logo=PostgreSQL)&nbsp;
-![Neo4j](https://img.shields.io/badge/-Neo4j-21212b?logo=neo4j)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-21212b?logo=redis)&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,solidity,rust,webassembly&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,next,gatsby,nodejs,bun,express,nest,fastapi,flask,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,jenkins,docker,kubernetes,vercel,netlify,git,github,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,graphql,firebase&theme=dark" />
 
 <hr />
 
-### ⚡ Some Analysis:
+## ⚡ Some Analysis:
 
 <p align="center">
   <a href="https://github.com/faraasat">
@@ -102,7 +63,7 @@
 
 <hr />
 
-### 🤙 Connect with Me:
+## 🤙 Connect with Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faraasat/"><img src="https://img.shields.io/badge/-Farasat%20Ali-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
@@ -112,3 +73,7 @@
   <a href="https://www.instagram.com/farasat_ali_azeemi/"><img src="https://img.shields.io/badge/-@farasat_ali_azeemi-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/FarasatAliAzeemi"><img src="https://img.shields.io/badge/-Farasat%20Ali-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
+
+
+## 🍀 My Activity:
+

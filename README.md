@@ -43,7 +43,7 @@
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,solidity,rust,webassembly&theme=dark" />
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui&theme=dark" />
-<img src="https://skillicons.dev/icons?i=react,next,gatsby,nodejs,bun,express,nest,fastapi,flask,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,next,gatsby,nodejs,bun,express,nest,fastapi,flask,redux,tensorflow,pytorch&theme=dark" />
 <img src="https://skillicons.dev/icons?i=aws,azure,jenkins,docker,kubernetes,vercel,netlify,git,github,nginx&theme=dark" />
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,graphql,firebase&theme=dark" />
 

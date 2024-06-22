@@ -40,6 +40,37 @@
 ## 📡 Tech Stack:
 
 <br />
+<!-- <table align="start">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/solidity-icon.svg" alt="icon" width="65" height="65" />
+      <br>Solidity
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webassembly-icon.svg" alt="icon" width="65" height="65" />
+      <br>Assembly Script
+    </td>
+  </tr>
+</table>
+-->
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,solidity,rust,webassembly&theme=dark" />
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mui&theme=dark" />

@@ -30,7 +30,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥 In my free time, I love to:
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Learn about forex and do analysis.
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Watch anime and travel vlogs.
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 You can contact me at any time at <a href="mailto:farasataliazeemi1@gmail.com">farasataliazeemi1@gmail.com</a>. I'll try to respond ASAP!!
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 You can contact me at any time. I'll try to respond ASAP!! also, Don't forget to visit my portfolio at https://www.farasat.me.
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact: I want to visit every country on this planet.
 
 <br />
@@ -110,7 +110,6 @@
   <a href="https://www.linkedin.com/in/faraasat/"><img src="https://img.shields.io/badge/-Farasat%20Ali-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.farasat.me/"><img src="https://img.shields.io/badge/-My%20Portfolio-FCA502?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://faraasat.medium.com/"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="mailto:farasataliazeemi1@gmail.com"><img src="https://img.shields.io/badge/-farasataliazeemi1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/farasat_ali_azeemi/"><img src="https://img.shields.io/badge/-@farasat_ali_azeemi-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/FarasatAliAzeemi"><img src="https://img.shields.io/badge/-Farasat%20Ali-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp;&nbsp;
 </p>

@@ -1,5 +1,7 @@
 # 👋 Hey There! I am Farasat Ali
 
+## [My Portfolio](https://www.farasat.me) | [My Socials](https://linktr.ee/faraasat)
+
 <br />
 
 <p align="center" height="300px">
@@ -19,6 +21,7 @@
 <br />
 
 ## ✌ Things that will help you know me better:
+## [My Portfolio](https://www.farasat.me) | [My Socials](https://linktr.ee/faraasat)
   
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 I am passionate and open to learning and discussing new technologies and frameworks!
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😎 I am a graduate and pursuing my goals and dreams.
@@ -30,7 +33,8 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔥 In my free time, I love to:
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Learn about forex and do analysis.
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤞 Watch anime and travel vlogs.
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 You can contact me at any time. I'll try to respond ASAP!! also, Don't forget to visit my portfolio at https://www.farasat.me.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 You can contact me at any time. I'll try to respond ASAP!! 
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎉 Also, don't forget to visit my portfolio at https://www.farasat.me and my socials at https://linktr.ee/faraasat.
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact: I want to visit every country on this planet.
 
 <br />

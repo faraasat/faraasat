@@ -1,6 +1,6 @@
 # 👋 Hey There! I am Farasat Ali
 
-## [My Portfolio](https://www.farasat.me) | [My Socials](https://linktr.ee/faraasat)
+## 😍 <[My Portfolio](https://www.farasat.me) | [My Socials](https://linktr.ee/faraasat)>
 
 <br />
 
@@ -21,7 +21,7 @@
 <br />
 
 ## ✌ Things that will help you know me better:
-## [My Portfolio](https://www.farasat.me) | [My Socials](https://linktr.ee/faraasat)
+### 🥳 [My Portfolio](https://www.farasat.me) | [My Socials](https://linktr.ee/faraasat)
   
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 I am passionate and open to learning and discussing new technologies and frameworks!
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😎 I am a graduate and pursuing my goals and dreams.

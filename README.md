@@ -127,3 +127,11 @@
 <br />
 
 <img src="https://github.com/faraasat/faraasat/blob/main/profile-3d-contrib/profile-night-rainbow.svg"></img>
+
+<br />
+<hr />
+
+## 🏅 My Badges:
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->

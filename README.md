@@ -134,4 +134,14 @@
 ## 🏅 My Badges:
 
 <!--START_SECTION:badges-->
+[![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/bd97a0e0-5635-4c0d-b5c5-ee1c0ef2cee2 "ISC2 Candidate")
+[![Generative AI for Software Developers Specialization](https://images.credly.com/size/110x110/images/e41c77a7-4668-44e4-a196-008235304a3d/image.png)](http://www.credly.com/badges/70c179b4-9472-47e2-aad1-cad6940ce61e "Generative AI for Software Developers Specialization")
+[![Generative AI Essentials for Software Developers](https://images.credly.com/size/110x110/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png)](http://www.credly.com/badges/8c773332-4c10-47fe-874b-e8bd0f055f71 "Generative AI Essentials for Software Developers")
+[![Generative AI Fundamentals Specialization](https://images.credly.com/size/110x110/images/181dd6bc-152c-49b7-89a0-d13980981ff4/image.png)](http://www.credly.com/badges/0b286a2b-345c-4c1d-acf0-0b3783494f0e "Generative AI Fundamentals Specialization")
+[![Generative AI: Business Transformation and Career Growth](https://images.credly.com/size/110x110/images/94f9a6fe-8063-4418-b5f9-fc3e7e101289/image.png)](http://www.credly.com/badges/731fb58a-500e-4847-88f5-4bbfbeb998bf "Generative AI: Business Transformation and Career Growth")
+[![Generative AI: Impact, Considerations, and Ethical Issues](https://images.credly.com/size/110x110/images/a9c0d1ed-6852-41c0-9df6-56d8a553927e/image.png)](http://www.credly.com/badges/c1ce7b76-4002-4d7c-ad47-7986b97af963 "Generative AI: Impact, Considerations, and Ethical Issues")
+[![Enterprise Design Thinking Practitioner](https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)](http://www.credly.com/badges/0175dee6-1895-493f-95c8-2e38d57a9370 "Enterprise Design Thinking Practitioner")
+[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob)](http://www.credly.com/badges/ef7ae26c-f412-41a8-96fc-80a9f05501dd "Docker Essentials: A Developer Introduction")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/22902568-ba6c-489d-bc52-de1cf667996f "Microsoft Certified: Azure Fundamentals")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/5c94ad30-2467-414d-b84b-a221490ec9e5 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->

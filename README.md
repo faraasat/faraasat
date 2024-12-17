@@ -134,6 +134,7 @@
 ## 🏅 My Badges:
 
 <!--START_SECTION:badges-->
+[![McKinsey Forward Program](https://images.credly.com/size/110x110/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png)](http://www.credly.com/badges/f0a858c4-0d50-4f22-ad09-80217cfe1ce7 "McKinsey Forward Program")
 [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/bd97a0e0-5635-4c0d-b5c5-ee1c0ef2cee2 "ISC2 Candidate")
 [![Generative AI for Software Developers Specialization](https://images.credly.com/size/110x110/images/e41c77a7-4668-44e4-a196-008235304a3d/image.png)](http://www.credly.com/badges/70c179b4-9472-47e2-aad1-cad6940ce61e "Generative AI for Software Developers Specialization")
 [![Generative AI Essentials for Software Developers](https://images.credly.com/size/110x110/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png)](http://www.credly.com/badges/8c773332-4c10-47fe-874b-e8bd0f055f71 "Generative AI Essentials for Software Developers")

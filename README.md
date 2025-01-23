@@ -134,6 +134,13 @@
 ## 🏅 My Badges:
 
 <!--START_SECTION:badges-->
+[![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/f5b9cf35-db8a-46f5-905f-9e2bf092d0f7 "Set Up an App Dev Environment on Google Cloud Skill Badge")
+[![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/1c293b35-4b7d-4752-af84-3ded3a24e60b "Implement Load Balancing on Compute Engine Skill Badge")
+[![Set Up a Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/189c5c31-67c6-4eae-87dc-3b8185a99043/image.png)](http://www.credly.com/badges/b03a46f5-3236-4595-b6b0-eacc458a731b "Set Up a Google Cloud Network Skill Badge")
+[![Build Infrastructure with Terraform on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/b18154fb-9bd3-47e5-a6f1-554be512947d/image.png)](http://www.credly.com/badges/c3737f45-d3f9-49a3-bc30-d1de214e7aa1 "Build Infrastructure with Terraform on Google Cloud Skill Badge")
+[![Develop Your Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/b126c61c-4781-4f03-9b2b-062963003abf/image.png)](http://www.credly.com/badges/6007ae93-81a4-4167-99b6-977dbe883ae6 "Develop Your Google Cloud Network Skill Badge")
+[![Optimize Costs for Google Kubernetes Engine Skill Badge](https://images.credly.com/size/110x110/images/258d3147-f075-4308-bdb0-fb8d5e1d4d0e/image.png)](http://www.credly.com/badges/cc6914ae-0d35-4978-a921-2abd0d695949 "Optimize Costs for Google Kubernetes Engine Skill Badge")
+[![Use Machine Learning APIs on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/1d95accd-3e3d-466f-a432-5dceb4998fd1/image.png)](http://www.credly.com/badges/6ea2c977-8cba-41dd-8ae3-6f8aca3997ab "Use Machine Learning APIs on Google Cloud Skill Badge")
 [![McKinsey Forward Program](https://images.credly.com/size/110x110/images/47a284dc-266a-4e74-bb5e-f41df1d6edcb/image.png)](http://www.credly.com/badges/f0a858c4-0d50-4f22-ad09-80217cfe1ce7 "McKinsey Forward Program")
 [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/bd97a0e0-5635-4c0d-b5c5-ee1c0ef2cee2 "ISC2 Candidate")
 [![Generative AI for Software Developers Specialization](https://images.credly.com/size/110x110/images/e41c77a7-4668-44e4-a196-008235304a3d/image.png)](http://www.credly.com/badges/70c179b4-9472-47e2-aad1-cad6940ce61e "Generative AI for Software Developers Specialization")

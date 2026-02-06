@@ -151,5 +151,4 @@
 <a href="https://www.credly.com/badges/ef7ae26c-f412-41a8-96fc-80a9f05501dd" title="Docker Essentials: A Developer Introduction"><img src="https://images.credly.com/size/80x80/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" alt="Docker Essentials: A Developer Introduction" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/22902568-ba6c-489d-bc52-de1cf667996f" title="Microsoft Certified: Azure Fundamentals"><img src="https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5c94ad30-2467-414d-b84b-a221490ec9e5" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/bd97a0e0-5635-4c0d-b5c5-ee1c0ef2cee2" title="ISC2 Candidate"><img src="https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate" width="80" height="80"></a>
 <!--END_SECTION:badges-->

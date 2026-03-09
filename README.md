@@ -134,6 +134,7 @@
 ## 🏅 My Badges:
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/b8304f09-7090-4edd-a07d-ec1de8bbd96f" title="Foundations of Financial Engineering"><img src="https://images.credly.com/size/80x80/images/682cdebb-aad0-4791-b091-a64cf8d79be0/blob" alt="Foundations of Financial Engineering" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c3737f45-d3f9-49a3-bc30-d1de214e7aa1" title="Build Infrastructure with Terraform on Google Cloud Skill Badge"><img src="https://images.credly.com/size/80x80/images/b18154fb-9bd3-47e5-a6f1-554be512947d/image.png" alt="Build Infrastructure with Terraform on Google Cloud Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/6007ae93-81a4-4167-99b6-977dbe883ae6" title="Develop Your Google Cloud Network Skill Badge"><img src="https://images.credly.com/size/80x80/images/b126c61c-4781-4f03-9b2b-062963003abf/image.png" alt="Develop Your Google Cloud Network Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1c293b35-4b7d-4752-af84-3ded3a24e60b" title="Implement Load Balancing on Compute Engine Skill Badge"><img src="https://images.credly.com/size/80x80/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" alt="Implement Load Balancing on Compute Engine Skill Badge" width="80" height="80"></a>

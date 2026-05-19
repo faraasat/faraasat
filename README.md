@@ -142,7 +142,7 @@
 [![Set Up a Google Cloud Network Skill Badge](https://images.credly.com/size/80x80/images/189c5c31-67c6-4eae-87dc-3b8185a99043/image.png)](https://www.credly.com/badges/b03a46f5-3236-4595-b6b0-eacc458a731b)
 [![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](https://www.credly.com/badges/f5b9cf35-db8a-46f5-905f-9e2bf092d0f7)
 [![Use Machine Learning APIs on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/1d95accd-3e3d-466f-a432-5dceb4998fd1/image.png)](https://www.credly.com/badges/6ea2c977-8cba-41dd-8ae3-6f8aca3997ab)
-[![McKinsey.org Forward Program](https://images.credly.com/size/80x80/images/bad47198-deb5-48db-bbc3-85adb64db125/blob)](https://www.credly.com/badges/f0a858c4-0d50-4f22-ad09-80217cfe1ce7)
+[![McKinsey.org Forward Program](https://images.credly.com/size/80x80/images/94f4180f-4139-4529-9cd1-c5ae95b12f5f/blob)](https://www.credly.com/badges/f0a858c4-0d50-4f22-ad09-80217cfe1ce7)
 [![Generative AI Essentials for Software Developers](https://images.credly.com/size/80x80/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png)](https://www.credly.com/badges/8c773332-4c10-47fe-874b-e8bd0f055f71)
 [![Generative AI for Software Developers Specialization](https://images.credly.com/size/80x80/images/e41c77a7-4668-44e4-a196-008235304a3d/image.png)](https://www.credly.com/badges/70c179b4-9472-47e2-aad1-cad6940ce61e)
 [![Generative AI: Business Transformation and Career Growth](https://images.credly.com/size/80x80/images/94f9a6fe-8063-4418-b5f9-fc3e7e101289/image.png)](https://www.credly.com/badges/731fb58a-500e-4847-88f5-4bbfbeb998bf)
